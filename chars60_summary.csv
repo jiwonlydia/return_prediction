@@ -35,12 +35,12 @@ mom1m,Momentum ,Jegadeesh and Titman,1993,Momentum
 mom36m,Momentum rolling 36m,Jegadeesh and Titman,1993,Momentum 
 mom60m,Momentum rolling 60m,Jegadeesh and Titman,1993,Momentum 
 mom6m,Momentum rolling 6m,Jegadeesh and Titman,1993,Momentum 
-ni ,Net Stock Issues,Pontiï¬€ and Woodgate,2008,Investment
+ni ,Net Stock Issues,Pontiï¬ and Woodgate,2008,Investment
 nincr,Number of earnings increases,"Barth, Elliott and Finn",1999,Momentum 
 noa,(Changes in) Net Operating Assets,"Hirshleifer, Hou, Teoh, and Zhang",2004,Investment
-op,Operating proï¬tability,Fama and French,2015,Profitability 
+op,Operating proï¬_ability,Fama and French,2015,Profitability 
 pctacc,Percent operating accruals,"Hafzalla, Lundholm, and Van Winkle",2011,Investment
-pm ,proï¬t margin,Soliman,2008,Profitability
+pm ,proï¬_ margin,Soliman,2008,Profitability
 ps,Performance Score,Piotroski,2000,Profitability 
 rd_sale,RandD to sales,"Guo, Lev and Shi",2006,Intangibles 
 rdm ,RandD Expense-to-market,"Chan, Lakonishok, and Sougiannis",2001,Intangibles
